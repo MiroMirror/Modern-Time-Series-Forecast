@@ -1,2 +1,1 @@
-*.parquet filter=lfs diff=lfs merge=lfs -text
-*.csv filter=lfs diff=lfs merge=lfs -text
+london_smart_meters/preprocessed/*.parquet filter=lfs diff=lfs merge=lfs -text
